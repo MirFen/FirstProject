@@ -33,7 +33,7 @@
             {
                 System.Console.WriteLine("sum of numbers:not exist " + " max value: not exist ");
                 System.Console.WriteLine();
-                System.Console.WriteLine("Good bye ");
+                System.Console.WriteLine("Good bye hava a nice day");
             }
              else if (max !=null) 
             {
