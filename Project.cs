@@ -6,7 +6,7 @@
         {
             int i = 0;
             int sum = 0;
-            int max = 0;
+            int? max = null;
 
             System.Console.WriteLine("To exit, type '0'");
 
